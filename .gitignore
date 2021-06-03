@@ -1,0 +1,8 @@
+env/
+.vscode/
+build_model/glove.6B.200d.txt
+*.zip
+inference/__pycache__/
+inference/model.png
+!**/__pycache__/
+*.pyc
