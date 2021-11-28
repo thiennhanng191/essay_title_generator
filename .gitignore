@@ -6,3 +6,4 @@ inference/__pycache__/
 inference/model.png
 !**/__pycache__/
 *.pyc
+README.txt
